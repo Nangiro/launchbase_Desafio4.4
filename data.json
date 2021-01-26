@@ -1,0 +1,20 @@
+{
+  "teachers": [
+    {
+      "avatar_url": "http://bla.com",
+      "birth": 1609804800000,
+      "name": "teste",
+      "degree": "DR",
+      "type": "D",
+      "subjects": "teste1, teste2"
+    },
+    {
+      "avatar_url": "http://bla.com",
+      "birth": 1609459200000,
+      "name": "teste 2",
+      "degree": "M",
+      "type": "P",
+      "subjects": "teste1, teste2, teste3"
+    }
+  ]
+}
